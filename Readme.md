@@ -1,4 +1,4 @@
-OSCP Preparation and Pentesting Resources:
+#OSCP Preparation and Pentesting Resources by SacD
 
 
 # Buffer Overflow
@@ -12,7 +12,8 @@ OSCP Preparation and Pentesting Resources:
 - Buffer Overflows for Dummies:https://www.sans.org/reading-room/whitepapers/threats/buffer-overflows-dummies-481
 - Vortex Stack Buffer Overflow Practice:https://www.vortex.id.au/2017/05/pwkoscp-stack-buffer-overflow-practice/
 - Smashing the Stack For Fun and Profit: http://www-inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf
-
+- https://www.youtube.com/watch?v=qSnPayW6F7U&list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G
+- 
 
 ##Training for BoF:
 
@@ -28,11 +29,19 @@ OSCP Preparation and Pentesting Resources:
 - https://www.youtube.com/watch?v=kMG8IsCohHA
 - https://www.youtube.com/watch?v=PC_iMqiuIRQ
 - https://github.com/GDSSecurity/Windows-Exploit-Suggester
-- http://www.fuzzysecurity.com/tutorials/16.html
 - Pwnwiki Windows Privilege Escalation Commands:http://pwnwiki.io/#!privesc/windows/index.md
 - Absolomb’s Security Blog: https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/
 - Pentest.blog: https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
 - https://medium.com/@rahmatnurfauzi/windows-privilege-escalation-scripts-techniques-30fa37bd194
+- https://toshellandback.com/2015/11/24/ms-priv-esc/
+
+##Exploits
+
+- https://github.com/abatchy17/WindowsExploits
+- github.com/AusJock/Privilege-Escalation
+- github.com/51x/WHP
+- bhafsec.com/wiki
+- https://www.abatchy.com/tag/Kernel%20Exploitation/
 
 
 ## Windows Privilege Escalation Tools:
@@ -63,8 +72,8 @@ OSCP Preparation and Pentesting Resources:
 - https://www.youtube.com/watch?v=dk2wsyFiosg
 - Privilege escalation recon scripts:http://www.securitysift.com/download/linuxprivchecker.py
 - http://pentestmonkey.net/tools/audit/unix-privesc-check
-- https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 
+ 
 
 ## Linux Privilege Escalation Tools:
 
@@ -146,6 +155,7 @@ OSCP Preparation and Pentesting Resources:
 
 - https://www.lanmaster53.com/2011/05/7-linux-shells-using-built-in-tools/
 - http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+- https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
 
 
 ## Netcat:
@@ -210,7 +220,7 @@ OSCP Preparation and Pentesting Resources:
 - HTB Boxes like OSCP - https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159
 - HTB boxes : https://www.youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf
 - Vulnhub machines: https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0
-
+- https://www.vulnhub.com/entry/exploit-exercises-nebula-v5,31/
 
 
 
@@ -305,94 +315,84 @@ OSCP Preparation and Pentesting Resources:
 - recon-ng: https://bitbucket.org/LaNMaSteR53/recon-ng/overview
 
 
-## T00ls
 
-- https://github.com/swisskyrepo/SSRFmap
 
-- Dumb0 Username Scrapper Tool     https://github.com/0verl0ad/Dumb0/
+#Hack The Box (HTB)
 
-- CMSsc4n Identify Tool     https://github.com/n4xh4ck5/CMSsc4n
+Blue (Windows)
+Bounty (Windows)
+Canape (Linux)
+CronOS (Linux)
+Devel (Windows)
+FriendZone (Linux)
+Frolic (Linux)
+Haircut (Linux)
+Help (Linux)
+Jarvis (Linux)
+Jerry (Windows)
+Joker (Linux)
+Lame (Linux)
+Nibbles (Linux)
+Nineveh (Linux)
+Netmon (Windows)
+October (Linux)
+OpenAdmin (Linux)
+Optimum (Windows)
+Poison (Linux)
+RedCross (Linux)
+Sunday (Linux)
 
-- Puppet Identify Tool     https://github.com/Poil/puppet-websites-facts
+#VulnHub
 
-- pyfiscan Identify Tool     https://github.com/fgeek/pyfiscan
+Bob
+Brainpan
+GoldenEye
+NullByte
+Pluck
+Sedna
 
-- XAttacker Exploit Tool     https://github.com/Moham3dRiahi/XAttacker
+#TryHackMe
 
-- beecms Exploit Tool     https://github.com/CHYbeta/cmsPoc
+Alfred
+Blue
+Brainstorm
+Corp
+HackPark
+Ignite
+Kenobi
+Skynet
+Steel Mountain
+Thompson
 
-- CMSXPL Exploit Tool     https://github.com/tanprathan/CMS-XPL
 
-- JMassExploiter  Exploit Tool     https://github.com/anarcoder/JoomlaMassExploiter
 
-- WPMassExploiter Exploit Tool     https://github.com/anarcoder/WordPressMassExploiter
 
-- CMSExpFram Exploit Tool     https://github.com/Q2h1Cg/CMS-Exploit-Framework
 
-- LotusXploit Exploit Tool     https://github.com/Hood3dRob1n/LotusCMS-Exploit
 
-- BadMod Exploit Tool     https://github.com/MrSqar-Ye/BadMod
 
-- M0B Exploit Tool     https://github.com/mobrine-mob/M0B-tool
 
-- LetMeFuckIt Exploit Tool     https://github.com/onthefrontline/LetMeFuckIt-Scanner
 
-- magescan Exploit Tool     https://github.com/steverobbins/magescan
 
-- PRESTA Exploit Tool     https://github.com/AlisamTechnology/PRESTA-modules-shell-exploit
 
-- EktronE  Exploit Tool     https://github.com/tomkallo/Ektron_CMS_8.02_exploit
 
-- XBruteForcer Brute Force Tool     https://github.com/Moham3dRiahi/XBruteForcer
 
-- CoMisSion Analyze Tool     https://github.com/Intrinsec/comission
 
-- droopescan Analyze Tool     https://github.com/droope/droopescan
 
-- CMSmap Analyze Tool     https://github.com/Dionach/CMSmap
 
-- JoomScan Analyze Tool     https://github.com/rezasp/joomscan
 
-- JoomlaScan Analyze Tool     https://github.com/drego85/JoomlaScan
 
-- c5scan Analyze Tool     https://github.com/auraltension/c5scan
 
-- T3scan Analyze Tool     https://github.com/Oblady/T3Scan
 
-- moodlescan Analyze Tool     https://github.com/inc0d3/moodlescan
 
-- SPIPScan Analyze Tool     https://github.com/PaulSec/SPIPScan
 
-- WPHunter Analyze Tool     https://github.com/aryanrtm/WP-Hunter
 
-- WPSeku Analyze Tool     https://github.com/m4ll0k/WPSeku
 
-- ACDrupal Analyze Tool     https://github.com/mrmtwoj/ac-drupal
 
-- Plown Analyze Tool     https://github.com/unweb/plown
 
-- conscan Analyze Tool     https://github.com/nullsecuritynet/tools/tree/master/scanner/conscan
 
-- CMSScanner Analyze Tool     https://github.com/CMS-Garden/cmsscanner
 
-- cmsExplorer Analyze Tool     https://code.google.com/archive/p/cms-explorer
 
-- WPScan Analyze Tool     https://github.com/wpscanteam/wpscan
 
-- WooScan Analyze Tool     https://github.com/vortexau/mooscan
 
-- Scanners Analyze Tool     https://github.com/b3o1/Scanners
-
-- LiferayScan Analyze Tool     https://github.com/bcoles/LiferayScan
-
-- InfoLeak Analyze Tool     https://github.com/SIWECOS/InfoLeak-Scanner
-
-- joomlavs Analyze Tool     https://github.com/rastating/joomlavs
-
-- WAScan Analyze Tool     https://github.com/m4ll0k/WAScan
-
-- RedHawk Analyze Tool     https://github.com/Tuhinshubhra/RED_HAWK
-
-- HostileSBF Analyze Tool     https://github.com/nahamsec/HostileSubBruteforcer
 
 
