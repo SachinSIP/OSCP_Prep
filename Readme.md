@@ -15,7 +15,7 @@
 - https://www.youtube.com/watch?v=qSnPayW6F7U&list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G
 - 
 
-##Training for BoF:
+## Training for BoF:
 
 - Brainpan 1: https://www.vulnhub.com/entry/brainpan-1,51/
 - Pinky’s Palace version 1: https://www.vulnhub.com/entry/pinkys-palace-v1,225/
@@ -35,7 +35,7 @@
 - https://medium.com/@rahmatnurfauzi/windows-privilege-escalation-scripts-techniques-30fa37bd194
 - https://toshellandback.com/2015/11/24/ms-priv-esc/
 
-##Exploits
+## Exploits
 
 - https://github.com/abatchy17/WindowsExploits
 - github.com/AusJock/Privilege-Escalation
@@ -130,7 +130,7 @@
 - Wfuzz: https://github.com/xmendez/wfuzz
 
 
-##NMAP
+## NMAP
 
 - SANS Nmap Cheatsheet: https://blogs.sans.org/pen-testing/files/2013/10/NmapCheatSheetv1.1.pdf
 - https://nmap.org/book/man-nse.html
@@ -200,7 +200,7 @@
 - OWASP:https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
 
 
-##File Inclusion Vulnerabilities.
+## File Inclusion Vulnerabilities.
 
 - https://www.offensive-security.com/metasploit-unleashed/file-inclusion-vulnerabilities/
 
@@ -317,52 +317,53 @@
 
 
 
-#Hack The Box (HTB)
 
-Blue (Windows)
-Bounty (Windows)
-Canape (Linux)
-CronOS (Linux)
-Devel (Windows)
-FriendZone (Linux)
-Frolic (Linux)
-Haircut (Linux)
-Help (Linux)
-Jarvis (Linux)
-Jerry (Windows)
-Joker (Linux)
-Lame (Linux)
-Nibbles (Linux)
-Nineveh (Linux)
-Netmon (Windows)
-October (Linux)
-OpenAdmin (Linux)
-Optimum (Windows)
-Poison (Linux)
-RedCross (Linux)
-Sunday (Linux)
+# Hack The Box (HTB)
 
-#VulnHub
+- Blue (Windows)
+- Bounty (Windows)
+- Canape (Linux)
+- CronOS (Linux)
+- Devel (Windows)
+- FriendZone (Linux)
+- Frolic (Linux)
+- Haircut (Linux)
+- Help (Linux)
+- Jarvis (Linux)
+- Jerry (Windows)
+- Joker (Linux)
+- Lame (Linux)
+- Nibbles (Linux)
+- Nineveh (Linux)
+- Netmon (Windows)
+- October (Linux)
+- OpenAdmin (Linux)
+- Optimum (Windows)
+- Poison (Linux)
+- RedCross (Linux)
+- Sunday (Linux)
 
-Bob
-Brainpan
-GoldenEye
-NullByte
-Pluck
-Sedna
+# VulnHub
 
-#TryHackMe
+- Bob
+- Brainpan
+- GoldenEye
+- NullByte
+- Pluck
+- Sedna
 
-Alfred
-Blue
-Brainstorm
-Corp
-HackPark
-Ignite
-Kenobi
-Skynet
-Steel Mountain
-Thompson
+# TryHackMe
+
+- Alfred
+- Blue
+- Brainstorm
+- Corp
+- HackPark
+- Ignite
+- Kenobi
+- Skynet
+- Steel Mountain
+- Thompson
 
 
 
