@@ -1,4 +1,11 @@
 # OSCP Preparation and Pentesting Resources by SacD
+-----------------------------------------------------------------------
+![image](https://miro.medium.com/max/2400/1*D3o79VQ9Aa-7e0Y-SrEdvA.png)
+
+
+
+""Hello Everyone,I'm SacDot this is my OSCP preparation resources site. If you like it share it with your friends....""
+
 
 
 # Buffer Overflow
@@ -208,6 +215,8 @@
 
 
 # Training machines
+
+![image](https://pbs.twimg.com/media/Dxy-J6AW0AIIqbu?format=jpg&name=small)
 
 - https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms.html
 - Metasploitable 2: https://metasploit.help.rapid7.com/docs/metasploitable-2
